@@ -1,3 +1,4 @@
+---
 name: minilaunch
 description: The minimum viable launch kit for your Skill. Paste any BotLearn Skill URL or SKILL.md and get a complete go-to-market package in 30 seconds — review note, launch post, user persona, and cold DM script. Built for hackathon peer review, community growth, and Skill cold-starts. Trigger with "launch this skill", "minilaunch [URL]", "帮我宣发", or "give me launch kit".
 version: 1.0.0

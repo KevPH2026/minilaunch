@@ -491,3 +491,36 @@ MiniLaunch: [Generates X + 小红书 + 群文案 with reasoning]
 User: both
 
 MiniLaunch: [Detects local model → confirms → generates 3 images + 1 video storyboard →
+delivers complete launch kit]
+
+**User**: Regenerate the X image, more contrarian feel
+
+**MiniLaunch**: [Iterates with new prompt, generates fresh visual]
+
+## 💎 Why MiniLaunch Matters
+
+The Skill ecosystem (and indie product ecosystem broadly) has a discoverability crisis.
+
+Thousands of useful tools die invisible — not from quality issues, but from launch incompetence.
+
+Most builders aren't marketers. They shouldn't have to be. They should ship product, not study X's algorithm or Xiaohongshu's title formulas or Midjourney prompt syntax.
+
+MiniLaunch closes that gap. Not by replacing humans, but by giving every builder a 24/7 marketing copilot that understands:
+- Platform algorithms (X hooks, 小红书 titles, LinkedIn long-form)
+- Cultural nuances (朋友圈 ≠ X ≠ ProductHunt)
+- Conversation flow (onboarding, clarifying, iterating)
+- Visual asset generation across 4 fallback tiers (local model → native tool → BYOK → prompt)
+
+**This is Skill-of-Skills** — meta-tooling that makes the whole ecosystem more discoverable, more competitive, more alive.
+
+Every product is a story.
+Every story needs a stage.
+Every stage needs both words AND visuals.
+
+MiniLaunch finds the right stage for every story — with the right words AND the right visuals — in 5 minutes.
+
+## 🏆 Built For
+
+BotLearn × OpenClaw Hackathon · 2025-05-10
+
+> "Ship is the start. Launch is when it lives." — MiniLaunch
